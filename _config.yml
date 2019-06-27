@@ -1,11 +1,11 @@
 # Site settings
-author: Christopher Grannan
-title: 
+author: Chris Grannan
+title: My Data Journey
 header-img: img/home-bg.png
 email: cmgrannan88@gmail.com
-copyright_name: Christopher Grannan
+copyright_name: Chris Grannan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning Data Science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CGrannan
