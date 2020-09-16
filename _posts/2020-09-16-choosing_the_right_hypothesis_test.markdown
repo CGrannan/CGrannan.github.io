@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Choosing the Right Hypothesis Test"
-date:       2020-09-16 14:54:22 +0000
+date:       2020-09-16 10:54:25 -0400
 permalink:  choosing_the_right_hypothesis_test
 ---
 
